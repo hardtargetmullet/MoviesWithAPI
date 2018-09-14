@@ -30,7 +30,7 @@ Tech Used:
     Intent
     Parcelable
     
-In order to get the app to fetch data from themovie API you must apply for a API key here:
+In order to get the app to fetch data from themovieDB API you must apply for a API key here:
     https://www.themoviedb.org/
     
     You must create and account and request a key for personal use.
