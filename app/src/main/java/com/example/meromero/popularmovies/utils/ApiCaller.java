@@ -18,7 +18,7 @@ public class ApiCaller {
 
     private static final String TAG = ApiCaller.class.getSimpleName();
 
-	private static final String MY_API_KEY = "XXXXXXXXXX"; // replace "XXXXXXXXX" with your own personal key
+    private static final String MY_API_KEY = "XXXXXXXXXX"; // replace "XXXXXXXXX" with your own personal key
     private static final String BASE_API_URL = "https://api.themoviedb.org/3/movie/";
 
     private final static String QUERY_API_PARAMETER = "api_key";
