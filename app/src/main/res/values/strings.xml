@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Label for the Search Order preference-->
+    <string name="pref_order_label">Order Movies by</string>
+
+    <!-- Label for the popular preference-->
+    <string name="pref_order_label_popular">Most Popular</string>
+    <!-- Label for the highest rated preference-->
+    <string name="pref_order_label_rating">Highest Rated</string>
+
+    <!-- Key name for search order preference-->
+    <string name="pref_order_key" translatable="false">order</string>
+
+    <!-- Value in SharedPreferences for the popular option-->
+    <string name="pref_order_popular_value" translatable="false">popular</string>
+    <!-- Value in SharedPreferences for the highest rated option-->
+    <string name="pref_order_rating_value" translatable="false">top_rated</string>
+    <string name="movie_detail_title">Title</string>
+    <string name="content_description_poster">A poster for the film</string>
+    <string name="movie_details_overview">Movie Overview</string>
+    <string name="movie_details_vote">Vote Average</string>
+    <string name="movie_details_release_date">Release Date</string>
+    <string name="movie_poster_thumbnail">A movie poster thumbnail</string>
+
+</resources>
