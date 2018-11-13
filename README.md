@@ -7,6 +7,9 @@ Required Tasks:
     - Launch these Activities via Intent.
     - Fetch data from themovieDB API
     
+Screen Preview:
+   ![screen-preview](https://github.com/hardtargetmullet/MoviesWithAPI/blob/master/ScreenCapture.gif.gif)
+
 Upon launch, present the user with an grid arrangement of movie posters.
     
     Allow your user to change sort order via a setting:
